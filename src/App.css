@@ -17,7 +17,7 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 18s linear;
   height: 40vmin;
   pointer-events: none;
 }
@@ -42,6 +42,6 @@
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(360def);
   }
 }
